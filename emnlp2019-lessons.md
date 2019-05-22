@@ -8,6 +8,8 @@ Disorganized notes from this EMNLP 2019.
 - Structure experiments consistently, e.g., same procedure throughout.
 - Design hypothesis first, keep revisiting it in the paper.
 - Ablate the same datasets throughout, so as not to raise eyebrows.
+- Typical long paper R&D section: main results first, followed by N analyses fixed on a few datasets/models.
+- Typical short paper R&D section: main results first, _optionally_ followed by analysis.
 - Refer to Bowman's slides.
 
 ## KD long
